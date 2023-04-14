@@ -11,7 +11,7 @@ A few years ago research was done on a tribe in America which is called the Pima
 
 #Dataset Information:
 
-##Below is the attribute information:
+#Below is the attribute information:
 
 - Pregnancies: Number of times pregnant
 - Glucose: Plasma glucose concentration a 2 hours in an oral glucose tolerance test
